@@ -11,7 +11,7 @@ Vivado 2025.1 is unable to the generate XSA files using the non-project mode flo
 
 # Block design creation
 
-Th is repository contains `bd_ps_<Vivado version>.tcl` TCL scripts used for generating the block design containing the PS. They were created using the following steps:
+This repository contains several `bd_ps_<Vivado version>.tcl` TCL scripts used for generating the block design containing the PS. They were created using the following steps:
 
 - Open Vivado GUI, create an empty new project targeting the ZC702 board
 - Create a new block design named `bd_ps`
